@@ -19,7 +19,7 @@ A simple Tetris game built with Python and Pygame.
 
 1. Install Python and Pygame.
 2. Clone or download the project.
-3. Run `tetris.py` to start the game.
+3. Run `python main.py` to start the game.
 
 ## Future Improvements
 
